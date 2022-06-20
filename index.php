@@ -60,7 +60,7 @@
     <div class="hero-container" data-aos="fade-in">
       <h1>Selamat Datang Di Bukapasar.id</h1>
       <h2>Penuhi Kebutuhan Gizimu Dengan Ragam Pilihan Terbaik Hanya di Bukapasar</h2>
-      <img src="landing/assets/img/hero-img.png" alt="Hero Imgs" data-aos="zoom-out" data-aos-delay="100">
+      <img src="landing/assets/img/bg1.jpg" alt="Hero Imgs" data-aos="zoom-out" data-aos-delay="100">
       <a href="#get-started" class="btn-get-started scrollto">Get Started</a>
       
     </div>
